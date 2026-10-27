@@ -11,7 +11,7 @@ For Wind_Energy, efficiency is calculated as (Energy Generated / 8000) × 100. D
 NOTE: The below part of the question shall be integrated into the above program after the concept has been taught in the class.
 
 Demonstrate dynamic method dispatch using an Energy_Source reference.
-
+E-> Energy source S -> solar energy ,w->wind energy
 */
 
 abstract class E
